@@ -4,4 +4,4 @@
 
 =YOUTUBEFEEDDATE - Grabs the date of the YouTube channel's videos published from the YouTube channel feed.
 
-Syntax: =COMMAND(channel_id)
+Syntax: =COMMAND("channel_id")
